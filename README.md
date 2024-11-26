@@ -1,7 +1,6 @@
 ﻿# Resume-Parser
 
-Projected Assigned by **HeadStarter** and **Mofizur Rahman**, Developer Relations Engineer at **Google**.  
-Created by Tristan Pinzari, Kenny Frias, and Daniel Galvez.
+
 
 ## Inspriation / Problem We Are Solving
 
