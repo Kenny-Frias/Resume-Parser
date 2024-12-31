@@ -101,7 +101,7 @@ searchbar.addEventListener('change', function() {
                 });
             })
             .catch(function(error) {
-              console.log('Error getting download URL:', error);
+              console.log('Error getting download URL!:', error);
             });
         }
       });

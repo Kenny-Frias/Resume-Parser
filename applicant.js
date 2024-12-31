@@ -1,6 +1,6 @@
 // Initialize Firebase
 var firebaseConfig = {
-  apiKey: "AIzaSyCBvhvxXNxpJLYdX4-N0rMUnsQe0J09dFQ",
+  apiKey: "AIzaSyCBvhvxXNxpJLYdX4-N0rMUnsQe0J09dFQs",
   authDomain: "resume-parser-488ed.firebaseapp.com",
   projectId: "resume-parser-488ed",
   storageBucket: "resume-parser-488ed.appspot.com",
