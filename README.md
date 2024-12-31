@@ -1,12 +1,4 @@
-﻿# Resume-Parser
-
-
-
-## Inspriation / Problem We Are Solving
-
-The hiring process for large companies is often a lengthy and costly process. Every year some FAANG companies recieve upward of 10M applications.
-
-## What is Resume Parser
+﻿## What is Resume Parser
 
 Resume Parser allows applicants to upload their resume to the company's cloud storage. After applicants upload their resume, recruiters can look and search for resumes using keywords on the recruiter dashboard.
 
@@ -18,7 +10,6 @@ Resume Parser allows applicants to upload their resume to the company's cloud st
 - CSS
 
 **Backend**
-
 
 - Firebase
 - JavaScript
@@ -34,16 +25,6 @@ Applicants will be able to upload their resume by selecting the pdf on their com
 Recruiters can click on the recruiter button to open the recruiter dashboard. There they can search for **keywords** which will filter and only show resume containing the keywords.
 
 ![recruiter demo video](https://github.com/TristanPinzari/Resume-Parser/blob/main/ezgif-5-08538d3d55.gif)
-
-## Hurdles
-
-1. This was our first time using React, Node, and Firebase
-2. Finding a good PDF API was difficult since many had little documentation and many bugs
-3. Displaying the original PDF instead of the text file was tricky
-
-## Future Iterations
-
-1. add authentication to access the recruiter and applicant dashboards
 
 ## How to Run
 
